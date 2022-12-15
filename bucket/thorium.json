@@ -5,7 +5,7 @@
     "homepage": "https://github.com/Alex313031/Thorium",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Alex313031/Thorium-Win/releases/download/M109.0.5362.0/Thorium_109.0.5362.0.zip",
+            "url": "https://github.com/Alex313031/Thorium-Win/releases/download/M109.0.5362.0/Thorium_109.0.5362.0.zip"
         }
     },
     "bin": [
